@@ -22,10 +22,6 @@
   --fw-secondary: 600;
 }
 
-html {
-  font-size: 16px;
-}
-
 body {
   font-family: var(--ff-primary);
   margin: 0;
